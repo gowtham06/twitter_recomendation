@@ -1,0 +1,78 @@
+ program
+ algebraic
+ computer
+ computer programming
+ oriented
+ programs
+ programing
+ scheduling
+ symbolic
+ cobol
+ java
+ pascal
+ algol
+ basic
+ computer-oriented language
+ computer language
+ logic programming
+ machine-oriented language
+ machine language
+ object-oriented programing language
+ object-oriented programming language
+ algorithmic language
+ multidimensional language
+ one-dimensional language
+ programming language
+ prolog
+ unstratified language
+ assembly language
+ dialect
+ digital computer
+ line of code
+ lineup
+ lisp
+ list-processing language
+ logic programing
+ object language
+ pl/1
+ stratified language
+ target language
+ translating program
+ translator
+ compiler
+ fortran
+ compile
+ firmware
+ hacker
+ high-level language
+ routine
+ statement
+ apl
+ authoring language
+ break
+ complexity
+ computer technology
+ construction
+ debugger
+ formal language
+ high-level
+ low-level language
+ object
+ operations research
+ prime time
+ programing language
+ rapid application development (rad)
+ recursion
+ snobol
+ sponsor
+ syntax
+ syntax error
+ systems development life cycle (sdlc)
+ complement
+ literal
+ application
+ computerize
+ input
+ interface
+ interpreter
+ symbolism

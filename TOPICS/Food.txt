@@ -1,0 +1,454 @@
+
+ diet
+ treat
+ serve
+ taste
+ taster
+ ambrosia
+ fare
+ regale
+ server
+. surfeit
+. serving
+. swill
+. slurp
+. bait
+. refreshment
+. epicure
+. slop
+. gourmet
+. appetizer
+. appetite
+. take
+. nightclub
+. cheer
+. consume
+. chocolate
+. drug
+. table
+. lap
+. greedy
+. full
+. size
+. meat
+. barley
+. infectious hepatitis
+. refection
+. replete
+. nectar
+. guzzle
+. garnish
+. epicurean
+. bar
+. cellarer
+. hit
+. bon vivant
+. gastronome
+. swallow
+. allowance
+. touch
+. nosh
+. provision
+. belt
+. wine and dine
+. refect
+. sloppy
+. thirst
+. hunger
+. nutrition
+. feed
+. milk
+. brasserie
+. abstinence
+. abstemious
+. spice
+. help
+. helping
+. bill
+. binge
+. hocus
+. slipslop
+. finish
+. stand
+. gullet
+. fix
+. soup kitchen
+. tin can
+. rich
+. epiglottis
+. partake
+. cream
+. chit
+. cold
+. light
+. gargantua
+. off
+. cover charge
+. tasting
+. abligurition
+. pit+stop
+. crapulous
+. stow
+. proboscis
+. starter
+. assay
+. tinny
+. sugar
+. appetiser
+. good cheer
+. nocal
+. repletep
+ sampler
+
+ cuisine
+ delicatessen
+ feeding
+ fodder
+ gorge
+ gourmet
+ hake
+ kidney
+ larder
+ lientery
+ ling
+ monophagous
+ morsel
+ nourishment
+ nutriment
+ pap
+ pot
+ prog
+ server
+ serving
+ slaughter
+ spice
+ supply
+ taste
+ amyloid
+ appetite
+ appetizer
+ automat
+ barley
+ bowl
+ bromatology
+ chicken
+ concoction
+ condiment
+ convenience food
+ cram
+ curry
+ dietary
+ dollop
+ fao
+ feeder
+ formula
+ garbage
+ greedy
+ greenling
+ grill
+ help
+ helping
+ holophytic
+ ingest
+ lap
+ legume
+ lemon sole
+ millet
+ oat
+ omnivorous
+ pannage
+ pasta
+ pasture
+ perishable
+ poltophagy
+ polyphagia
+ pork
+ pothunter
+ predigest
+ ptomaine poisoning
+ puree
+ roast
+ sandwich
+ steamer
+ stuff
+ surfeit
+ sweetbread
+ swordfish
+ toothpick
+ voracious
+ waste
+ alimentary
+ alimentation
+ allowance
+ barbecue
+ bran
+ brill
+ brochette
+ carob
+ carrion
+ cat food
+ cheer
+ cibation
+ codfish
+ cookery
+ cooking
+ corn
+ cream
+ dainty
+ dairy product
+ dearth
+ deep-freeze
+ dehydrated food
+ dehydrated foods
+ dietetics
+ dog food
+ dress
+ epiglottis
+ famish
+ flathead
+ food product
+ foul
+ fresh food
+ fresh foods
+ full
+ gastronome
+ gastronomy
+ gelatin
+ glut
+ goose
+ griddle
+ gullet
+ haustorium
+ health food
+ ingredient
+ julienne
+ leg
+ lights
+ lingcod
+ luncheon
+ mutton
+ nidor
+ nourish
+ nurture
+ order
+ ort
+ panfish
+ pastry
+ pettitoes
+ photoautotrophic
+ plaice
+ potluck
+ rich
+ salmonellosis
+ scoff
+ second
+ sitophobia
+ size
+ slipslop
+ solid
+ soul food
+ soup kitchen
+ spanish mackerel
+ stodgy
+ sweet
+ tidbit
+ tin can
+ tofu
+ tuck
+ tucker
+ tucker-bag
+ veal
+ viands
+ weakfish
+ wild rice
+ yoghurt
+ yogurt
+ yolk
+ abligurition
+ allotriophagy
+ altricial
+ aperient
+ appetizing
+ barracouta
+ bean curd
+ bht
+ bit
+ bluegill
+ breadstuff
+ breakfast
+ breakfast food
+ buckwheat
+ butter
+ calamari
+ canned food
+ canned foods
+ canned goods
+ cannery
+ cat chow
+ cate
+ catering
+ cates
+ cibarious
+ clambake
+ cocoa
+ coconut
+ cold
+ commons
+ cooker
+ cool bag
+ corn chip
+ crumb
+ culinary art
+ deli
+
+
+ delicacy
+ delicatessen food
+ dicer
+ dika bread
+ dinner
+ dressing
+ edible corn
+ eggs
+ engorge
+ enrich
+ fda
+ fish slice
+ flavour
+ fletcherize
+ flour
+ food additive
+ food color
+ food coloring
+ food colour
+ food colouring
+ food cycle
+ frozen food
+ frozen foods
+ galley
+ garden truck
+ give
+ go down
+ gormandize
+ grass
+ green goods
+ green groceries
+ grillroom
+ groats
+ grocer
+ hash
+ haustellum
+ horse mackerel
+ indian rice
+ inedible
+ infectious hepatitis
+ intermixture
+ jack mackerel
+ junk food
+ krill
+ lake herring
+ light
+ liver
+ lunch
+ manna from heaven
+ market
+ marrow
+ microwave oven
+ miraculous food
+ mixture
+ mouthful
+ msg
+ muckamuck
+ muesli
+ mulloway
+ mumble
+ nosh
+ nutraceutical
+ nutritive
+ off
+ omophagia
+ pabulation
+ perch
+ petfood
+ pig
+ pit+stop
+ pizza
+ potato peel
+ potato peelings
+ potato skin
+ potherb
+ proboscis
+ produce
+ ptomaine
+ pudding
+ quarry
+ radula
+ ragi
+ ramekin
+ raven
+ ready-mix
+ redfish
+ refection
+ refuse
+ replete
+ roach
+ roaster
+ robalo
+ rock bass
+ round
+ rumen
+ saprophytic
+ saurel
+ schoolmaster
+ scrap
+ scraps
+ seafood
+ serranid
+ short order
+ sitiophobia
+ smother
+ sodium chloride
+ spatula
+ staff of life
+ starch
+ starving
+ stew
+ stick
+ sugar
+ sweetening
+ sweetmeat
+ take out
+ takeout food
+ tapioca
+ tautog
+ terrine
+ tinfoil
+ tinned goods
+ turner
+ undressed
+ unwholesome
+ well-done
+ wolffish
+ worker
+ wrasse
+ accommodate
+ acipenser transmontanus
+ acorn barnacle
+ adephagous
+ alimentary paste
+ alimonious
+ allantiasis
+ american plaice
+ anorexia nervosa
+ apositia
+ appetiser
+ assay
+ baked-meat
+ baked good
+ baked goods
+ barleycorn
+ beaten
+ belly
+ belt
+ bermuda chub
+ beverage

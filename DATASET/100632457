@@ -1,0 +1,400 @@
+  Maybe one of the samples from our Java WebAPI Library might help? 
+  MMS isn't supported yet, but it's on our list.
+ International Outbound issues resolved - Outbound to non-U.S. numbers should now be functioning as normal. 
+ Tropo Brings the Gold to LoneStar Ruby Conf ( - 
+ We <3  RT   V is proud to announce  as a Gold sponsor.
+ RT   V is proud to announce  as a Gold sponsor.
+ Calls to non-U.S. numbers may fail - Intermittent call failures to numbers outside of the U.S. have been... 
+ RT  Congrats to another great batch of companies graduating from Seattle FI tonight! cc  
+ Launch party for Symfony 2 at  tomorrow. Details at  -  will be there.
+ RT  Building an  speech recognition app on  that lets users say their address. 100%  with a  ba ...
+ Might be the last 10 around. Find Diggz for one. RT  just found 10  USB bottle openers in my bag at 
+ Join   and  tonight for the first  PDX at   
+ Tropo powers Carnegie Melon’s Fitwits progam 
+ RT  The point of  is to "create ideas worth stealing"
+ Want to win a pass to  London and the sold-out party at Batman Live? 
+ Tropo at  supporting Summer of Smart 
+  We *do* have Canadian accented French. Both text to speech and speech recognition. cc 
+ We've also boosted all our phone number's SMS sending rate to 1 message per second. Shortcodes can send 40/sec. 
+ Now available: Canadian voice and  numbers & shortcodes 
+ RT  Listening to  and  talk to  live about  the state of Realtime comm and  ...
+ Provisioning issues recurring - As before, these issues affect the Tropo UI (listing application, making... 
+ Announcing  Mobile  Our  voice and message client goes mobile. iOS or Android with 
+ Provisioning issue (resolved) - About 5 seconds after the last post this issue was resolved, our DBA rocks! 
+ Provisioning issue - We seem to be having some issue with provisioning database which is effecting the... 
+ RT  Tropo Joins The Sponsor Line-up 
+ RT  playing with  at work and having some fun doing it :)
+ New post demonstrating how to chain Tropo applications via SIP & how to add a conferencing pop-in timer to an app - 
+ w00t!  RT  RT   Joins The Sponsor Line-up 
+  Start here to create your first app:  Sending a text message detailed at 
+ RT  2 Lines of Code To Enable Calling 1 Phone Number And Ringing Multiple Phone Numbers (like Google Voice)  ...
+ Bay Area Rubyists, come learn about jRuby from  tonight in Berkeley. 
+ Proud to sponsor the great series of  events in San Francisco this Summer. Find out more and register to attend. 
+   try now
+   sounds like your account is locked out from too many invalid login attempts. What's your account id? We can fix.
+ Congrats to our friends at  for landing funding and launching the new Geoloqi API!  
+ Saving the world is a BIG responsibility! RT  RT  Man,  really came through to support 
+ RT   Thanks for another round of great advice and assistance today with  Definitely an awesome plat ...
+ Phase I of SBC migration complete - As mentioned previously Phase I of the SBC migration was completed at... 
+ Outbound SBC upgrades this afternoon - Tropo will be transitioning to a new SBC ( Session Boarder... 
+ Translate the weather into multiple languages using Tropo, Yahoo & Bing: 
+ Nice!  RT   has got some pretty neat stuff!  Just started playing with their SMS gateway service.
+ Tropo sponsors   Exhibition in San Francisco Friday July 15    
+ Czech Republic Maintenance - July 15 10pm GMT to July 16 2am GMT our local carrier in the Czech Republic... 
+  We're looking into it further now
+  While there was a response to your ticket asking for more logs, I think you may be encountering a bug using external grammars.
+  I'll check with support now on your ticket.
+  Let us know if you have any further trouble; opening a support ticket is always an option as well.
+  I'll check in to that, there should always be someone in the room, though they might've been sidetracked at the time.
+  Looks like you didn't get a response - are you using a library with the REST API? Looks like the request is missing your acct ID.
+  What's your Tropo username? We'll take a look.
+  Try an app that is just "transfer('14155551212')" - call it and it transfers to that number. Like call forwarding.
+  Sure. Call yourself first and then use transfer or conference to connect to other person. Or call in and transfer the call
+  It's 3¢/min to use the platform. We throw in inbound and US outbound PSTN for free.
+  Thanks! We agree. :)
+  We haven't changed anything in our Twitter support in months. Looking into it. Sorry about that.
+  That's odd indeed. Perhaps Twitter just finally gave us access to some extra tweets. They've been fiddling with the permissions.
+  Tropo replies to incoming messages on the account you connect to it. Were you expecting something else?
+  Same limits as paid accounts. We trust you know the difference between dev and production and trust you won't abuse it.
+  Sure. Send what you're looking for over to support and we'll see if it's available.
+ [New Blog Post] Deploy a Virtual Call Center in 10 minutes with   and     
+ RT  having fun writing an SMS search for the  project using  and  -  code: http ...
+ RT  Upcoming Features in  1.2:     /cc 
+ RT  Interesting thought - using an sms webAPI (like tropo or smsified) I can text from inflight via gogo - cool for those  ...
+ Deploying  based applications to  with       
+ RT  Great to see  get put to such great use!  Opensource libs here:   
+  Spamming what? Got a copy of the message?
+  can you describe what happened? Your twitter creds are stored very securely.  What makes you think it was a security issue?
+  Twitter suddenly gave us access to lots of your tweets we didn't used to have. Looks to be related to their DM policy changes.
+ RT  We just released our wordpress  widget plugin  - put a browser phone on your wordpress si ...
+ The best part about adding 17 new languages and dozens of new voices? We now have voices with names like Magnus, Afroditi, and Sven
+ We also added more variety of voices and accents in the languages we already supported. 
+ Announcing more languages for Tropo. Speech recognition and text to speech in 24 languages. 
+ RT  Movie night at  HQ - POTTAH!! 
+ Changes in Twitter's API resulted in old Tropo-generated messages to appear today in some authorized accounts. Apologies for any confusion
+  Looks like you had a Tropo app configured to respond to incoming messages.
+  Could you explain in more detail what you're trying to do? support if you need more than 140 chars.
+ All services restored, the fiber cut has been fixed - All areas affected by the cut fiber have been restored... 
+ Update on Fiber cut - We have gotten an update from our vendor, at this time we know for certain that the... 
+ Large fiber cut, several areacode's possibly impacted - We are experiencing a Fiber Cut in the Midwest at... 
+ How to fall back to text to speech if your audio isn't available. 
+ [New Blog Post] Telephony Black Magic with Tropo, Node.js and Redis.      
+ not only is my  shirt soft and comfy but, my baby girl loves it b/c she can pronounce all the letters!  (via  w00t!
+ RT  Awesome wrap up and overview of the first  hackathon. Much more to come this Summer!  
+  You mean before the call is connected? While it's dialing? Could you describe what you're trying to accomplish?
+  I have a bias (I'm one of the founders), but  was spawned from and runs on  carrier-class voice network
+  Our network defines carrier class. 7 datacenters worldwide, largest voice app host, 1/2 Fortune 500 running on it.
+ RT  A big thanks to  &  for the Ruby Script to assist us   
+ RT  Discovered very useful  script to forward Google Voice calls to any  URI. 
+  quick, have Tropo call her and read a love poem!
+  careful, or you'll need to write an app that calls to remind you to make your alimony payment.
+ RT  I just provided a Groovy  script to  for adding outbound Voice & SMS notifications! /cc 
+ RT  Want to start a business this weekend at  Talk to the man behind several successful startups - 
+ RT  As usual I'm aimin to misbehave.  will double any credits or prices offered by our competitors at  ...
+ Lookout for  at  and  - if your new biz idea uses  for Voice, SMS, IM, or Twitter he has prizes!
+ How to take conferencing from a one-liner to a full-featured application, step by step.  Using Tropo,   & voice
+ Fixes to the tropo-webapi-ruby gem. Fixed timstamp parsing & newer JSON parsing. v0.1.11 available  . Kudos to 
+ [New Blog Post] Tropo Sponsors the Summer of Smart in San Francisco.     /cc:
+ I just gave  +K about  on   (via  - Why thank you!
+  If you can find one, you can get a number directly and have them point it at your Tropo SIP address to use Tropo.
+  You would need a local telco to offer VoIP services. From what I can tell, none in Anguilla do.
+  Usually comes down to local telcos not being able to do the sorts of things we do.
+  No, we have local phone numbers in 41 countries, but not much in Caribbean outside of Puerto Rico.
+   17¢+ pricing is for voice traffic. SMS is 2¢ worldwide, 1¢ US. Can deliver to about 850 carriers worldwide.
+ Integrating the  API with  API by    
+   Using our US and Canadian SMS numbers, you can send/receive anywhere inc. Anguilla for $.02 per message.
+  Our international SMS rates are $.02 per message - anywhere - anytime!  BTW, developer accounts are free :)
+  Imagine working in our lab where you get to play with our APIs and new tech like  and  every day!
+ Sip Rox! RT  Tropo + IdeaSip.com + X-Lite = PSTN calls routed to my desktop! Nothing earth-shattering, but still cool...
+    A brilliant idea, clearly.
+ [New Blog Post] Realtime Conferencing Dashboard with Tropo and Chloe.    
+ Didn't the 1337 expression come out at the same time as Space Invaders? RT  Tweetin for a super 1337  space invaders shirt
+ Even Developer accounts are free! RT  "Everyone wins with  
+ Nice! RT  Learning about Icinga at  surrounded by cool Tropo t-shirts.
+ Our own  talks about the value of civic hackathons at     
+ RT  Tropo’s Mark Headd on hackathons and open government   
+  Let us know if we can help with that talk at all. Happy to ship a box of swag, help with some examples, or anything else.
+  Here ya go: 
+ php|tek hackers and winners    
+ RT  SMS and voice bases apps with simple APIs via Tropo      
+ [New Blog Post] Tropo Sponsors CityCamp San Francisco.    
+ RT  Just got a sweet Space Invaders homage tee!  Thanks  and  !!!! 
+ OK  just said that part of the answer to the digital divide is alternate channels, SMS. Correct! That lady is sharp (via 
+ Getting ready for  to start. Huge crowd.   (via 
+  too bad we can't convince them to call one of our numbers. Then we could look up the real carrier and origin of the call.
+  Probably forged, yes. Those two numbers are from two different carriers. MCI and Global NAPS.
+  For speech rec (Ask) you may use recognizer with 'en-gb' for British English. For prompts  (Say/Ask) voice 'kate' or 'simon'.
+  Let us know how we may help. We have speech recognition and speech synthesis for UK English as well as our UK numbers.
+ 407 & 321 outage resolved overnight - All should be well now, contact support if any further issues are... 
+  130 Townsend
+  after party sponsored by Tropo is at Tres Agaves at 130 Townsend. Come join us.
+ Outage affecting 407 and 321 numbers - There is a current outage affecting numbers with 407 and 321 area... 
+ RT  CfA Fellows Win at   Apps for Good! Congrats  &    
+ RT   you're the winner of the free  sponsored ticket to  showcase tonight! Congrats! /cc 
+ Italian number issues resolved. - About an hour ago we received word from our vendor that the issue with... 
+  Too easy to block and track abuse at hosted services. Scammers tend to want to stay more anonymous.
+  We do monitor for phishing and other abuse. Scammers generally would rather DIY with Asterisk than use hosted service.
+  Not one of our numbers, FYI. :)
+ AdhearsionConf 2.0 Announced:  October 8/9 in at NextSpace San Francisco    (via 
+ We are too! RT  Supercharged about  sponsoring today's Founders Showcase event ()! 
+ Calls to Italian numbers failing - We are investigating an issue that is preventing audio from connecting... 
+ RT   just has so much versatility. We've used it to create a very effective Loyalty Rewards program! Thanks, Tropo! cc ...
+   if either of you wants to talk Tropo at a Salt Lake City Ruby meetup we'll buy pizza and send a box of goodies.
+  See   - Rails3 Google Voice replacement on Tropo.
+   if a Rails plugin happened to grow out of that, we'd promote it on our code library page.
+ RT  Major reason to go with  They have awesome support, even on Sunday!
+  or maybe 1 aluminum duct away from a working flux capacitor.
+  couldn't hurt. :)
+ Upcoming maintenance for numbers in Japan - Please be aware that our carriers will be performing maintenance... 
+ Btw,  has a giant box of our new Invader shirts at our  office. Stop by for Happy Hour 4-6p  
+ In  & have questions about     Join us 4 Happy Hour today 4pm-6pm  
+ RT  Pic of the new  office in  
+ Tropo incoming calls interrupted - At 3:48pm Eastern time all production Tropo servers stopped accepting... 
+ Planned maintenance in Japan June 25 - On June 25 our carrier in Japan will be performing maintenance... 
+ RT  I'm the first one in Philly with the new  shirt from  
+ Number in 203 Area code working again - Tropo’s Provisioning team has just confirmed that numbers in the 203... 
+ Issues in 203 area code - One of our carriers is experiencing a localized outage in the Altoona, PA area,... 
+ RT  Today's  HD Audio Webinar is running on a 3 line  conferencing app!  Join in now using Blink at sip:confe ...
+  yes, we bill in 1 min increments. 2:30 is billed as 3 mins.
+  Maybe you could write an app that calls  until she agrees that you're awesome?
+ So much awesome at  tonight that the meeting couldn't contain it. Had to continue it over beers afterward. Thanks for having us, guys
+ Awesome,  showed up at the  Tropo talk wearing a Tropo tshirt.  
+ ok.  is awesome In just 10 mins, I built an app that sends & receives txt msgs based on where you call/txt from. (via  Thnx!
+ RT  ok... is awesome. In just 10 mins, I built an app that sends & receives txt msgs based on where you call/txt from.
+ w00t! RT  Hosting  tonight at    rocking the group.
+ Maybe our next communications channel?  
+  Very nice article in the NY Times blog. Thank you very much.
+  on ours, but I'll certainly send the post to phparch so they can crosspost if they want
+  they'll be up this week.
+ Tropo Best Practices: Testing production applications against new builds 
+ A taste of the awesomeness this weekend at Random Hacks of Kindness Seattle    
+ RT  Don't forget our friends from  will be at our  meetup this week!   /cc 
+  Apologies, oversight on our part, your account is now reactivated for outbound dialing to the Netherlands.
+ RT  Saweet! I just built an SMS customer service helper with  I'm telling you I love SMS with Tropo! cc 
+ RT   to some of my favorite brands:  (      ...
+  Outbound notifications, order tracking, virtual numbers (SMS forwarders), front ends for search results or all sorts...
+  Indeed it does. And responds with a request for them to do the same.
+  Send a request to support with the numbers you have in mind. We'll see if we can find a match with our carriers
+  That's right.
+  Most of our SMS traffic is two-way.
+  we'll hook you up with  - he can talk more details about your app and volume pricing
+  the FAQ:  - $3k setup, $750/mo, 1cent per message.
+  See 
+  also your app sounds awesome. Care to give us a demo? Email adam
+  We have 24x7 support, send internationally, have numbers and shortcodes in the US and Canada. Works over IM, too for easy testing.
+  Yes, just set the callerID property. see  or 
+  Caller ID can only be set to one of your US Tropo numbers. Carriers won't deliver SMS with spoofed sender IDs.
+ GWOBlog: RHoK  : Stand and Report   /via   
+  Tropo Shortcode pricing here:  
+ Let us know how we might help with getting your app rocking at  cc: 
+ RT  Every company should be built using the Open Enterprise model 
+  not there yet, but coming soon. You can fetch call logs via FTP, though.
+  whatcha building?
+ RT  Tropo Developer - Preferably PHP / mysql - oDesk: Looking for a developer familiar with developing Tropo based a... http: ...
+  Thanks!   we're always happy to help with our Voice, SMS, IM, and Twitter APIs!
+  You're welcome! Feeding  is the least we could do. Hack the planet!
+  You're welcome!  We love  :)
+  Seattle livestream    (via 
+ That would be  in Raleigh at 
+ We have  in Philly/NYC,  &  in Raleigh and  in Seattle. Find them!    
+ Staffing 5 events in 4 cities this weekend. Including    &  Busy weekend for us!
+  Maybe one of the samples from our Java WebAPI Library might help? 
+  MMS isn't supported yet, but it's on our list.
+ International Outbound issues resolved - Outbound to non-U.S. numbers should now be functioning as normal. 
+ Tropo Brings the Gold to LoneStar Ruby Conf ( - 
+ We <3  RT   V is proud to announce  as a Gold sponsor.
+ RT   V is proud to announce  as a Gold sponsor.
+ Calls to non-U.S. numbers may fail - Intermittent call failures to numbers outside of the U.S. have been... 
+ RT  Congrats to another great batch of companies graduating from Seattle FI tonight! cc  
+ Launch party for Symfony 2 at  tomorrow. Details at  -  will be there.
+ RT  Building an  speech recognition app on  that lets users say their address. 100%  with a  ba ...
+ Might be the last 10 around. Find Diggz for one. RT  just found 10  USB bottle openers in my bag at 
+ Join   and  tonight for the first  PDX at   
+ Tropo powers Carnegie Melon’s Fitwits progam 
+ RT  The point of  is to "create ideas worth stealing"
+ Want to win a pass to  London and the sold-out party at Batman Live? 
+ Tropo at  supporting Summer of Smart 
+  We *do* have Canadian accented French. Both text to speech and speech recognition. cc 
+ We've also boosted all our phone number's SMS sending rate to 1 message per second. Shortcodes can send 40/sec. 
+ Now available: Canadian voice and  numbers & shortcodes 
+ RT  Listening to  and  talk to  live about  the state of Realtime comm and  ...
+ Provisioning issues recurring - As before, these issues affect the Tropo UI (listing application, making... 
+ Announcing  Mobile  Our  voice and message client goes mobile. iOS or Android with 
+ Provisioning issue (resolved) - About 5 seconds after the last post this issue was resolved, our DBA rocks! 
+ Provisioning issue - We seem to be having some issue with provisioning database which is effecting the... 
+ RT  Tropo Joins The Sponsor Line-up 
+ RT  playing with  at work and having some fun doing it :)
+ New post demonstrating how to chain Tropo applications via SIP & how to add a conferencing pop-in timer to an app - 
+ w00t!  RT  RT   Joins The Sponsor Line-up 
+  Start here to create your first app:  Sending a text message detailed at 
+ RT  2 Lines of Code To Enable Calling 1 Phone Number And Ringing Multiple Phone Numbers (like Google Voice)  ...
+ Bay Area Rubyists, come learn about jRuby from  tonight in Berkeley. 
+ Proud to sponsor the great series of  events in San Francisco this Summer. Find out more and register to attend. 
+   try now
+   sounds like your account is locked out from too many invalid login attempts. What's your account id? We can fix.
+ Congrats to our friends at  for landing funding and launching the new Geoloqi API!  
+ Saving the world is a BIG responsibility! RT  RT  Man,  really came through to support 
+ RT   Thanks for another round of great advice and assistance today with  Definitely an awesome plat ...
+ Phase I of SBC migration complete - As mentioned previously Phase I of the SBC migration was completed at... 
+ Outbound SBC upgrades this afternoon - Tropo will be transitioning to a new SBC ( Session Boarder... 
+ Translate the weather into multiple languages using Tropo, Yahoo & Bing: 
+ Nice!  RT   has got some pretty neat stuff!  Just started playing with their SMS gateway service.
+ Tropo sponsors   Exhibition in San Francisco Friday July 15    
+ Czech Republic Maintenance - July 15 10pm GMT to July 16 2am GMT our local carrier in the Czech Republic... 
+  We're looking into it further now
+  While there was a response to your ticket asking for more logs, I think you may be encountering a bug using external grammars.
+  I'll check with support now on your ticket.
+  Let us know if you have any further trouble; opening a support ticket is always an option as well.
+  I'll check in to that, there should always be someone in the room, though they might've been sidetracked at the time.
+  Looks like you didn't get a response - are you using a library with the REST API? Looks like the request is missing your acct ID.
+  What's your Tropo username? We'll take a look.
+  Try an app that is just "transfer('14155551212')" - call it and it transfers to that number. Like call forwarding.
+  Sure. Call yourself first and then use transfer or conference to connect to other person. Or call in and transfer the call
+  It's 3¢/min to use the platform. We throw in inbound and US outbound PSTN for free.
+  Thanks! We agree. :)
+  We haven't changed anything in our Twitter support in months. Looking into it. Sorry about that.
+  That's odd indeed. Perhaps Twitter just finally gave us access to some extra tweets. They've been fiddling with the permissions.
+  Tropo replies to incoming messages on the account you connect to it. Were you expecting something else?
+  Same limits as paid accounts. We trust you know the difference between dev and production and trust you won't abuse it.
+  Sure. Send what you're looking for over to support and we'll see if it's available.
+ [New Blog Post] Deploy a Virtual Call Center in 10 minutes with   and     
+ RT  having fun writing an SMS search for the  project using  and  -  code: http ...
+ RT  Upcoming Features in  1.2:     /cc 
+ RT  Interesting thought - using an sms webAPI (like tropo or smsified) I can text from inflight via gogo - cool for those  ...
+ Deploying  based applications to  with       
+ RT  Great to see  get put to such great use!  Opensource libs here:   
+  Spamming what? Got a copy of the message?
+  can you describe what happened? Your twitter creds are stored very securely.  What makes you think it was a security issue?
+  Twitter suddenly gave us access to lots of your tweets we didn't used to have. Looks to be related to their DM policy changes.
+ RT  We just released our wordpress  widget plugin  - put a browser phone on your wordpress si ...
+ The best part about adding 17 new languages and dozens of new voices? We now have voices with names like Magnus, Afroditi, and Sven
+ We also added more variety of voices and accents in the languages we already supported. 
+ Announcing more languages for Tropo. Speech recognition and text to speech in 24 languages. 
+ RT  Movie night at  HQ - POTTAH!! 
+ Changes in Twitter's API resulted in old Tropo-generated messages to appear today in some authorized accounts. Apologies for any confusion
+  Looks like you had a Tropo app configured to respond to incoming messages.
+  Could you explain in more detail what you're trying to do? support if you need more than 140 chars.
+ All services restored, the fiber cut has been fixed - All areas affected by the cut fiber have been restored... 
+ Update on Fiber cut - We have gotten an update from our vendor, at this time we know for certain that the... 
+ Large fiber cut, several areacode's possibly impacted - We are experiencing a Fiber Cut in the Midwest at... 
+ How to fall back to text to speech if your audio isn't available. 
+ [New Blog Post] Telephony Black Magic with Tropo, Node.js and Redis.      
+ not only is my  shirt soft and comfy but, my baby girl loves it b/c she can pronounce all the letters!  (via  w00t!
+ RT  Awesome wrap up and overview of the first  hackathon. Much more to come this Summer!  
+  You mean before the call is connected? While it's dialing? Could you describe what you're trying to accomplish?
+  I have a bias (I'm one of the founders), but  was spawned from and runs on  carrier-class voice network
+  Our network defines carrier class. 7 datacenters worldwide, largest voice app host, 1/2 Fortune 500 running on it.
+ RT  A big thanks to  &  for the Ruby Script to assist us   
+ RT  Discovered very useful  script to forward Google Voice calls to any  URI. 
+  quick, have Tropo call her and read a love poem!
+  careful, or you'll need to write an app that calls to remind you to make your alimony payment.
+ RT  I just provided a Groovy  script to  for adding outbound Voice & SMS notifications! /cc 
+ RT  Want to start a business this weekend at  Talk to the man behind several successful startups - 
+ RT  As usual I'm aimin to misbehave.  will double any credits or prices offered by our competitors at  ...
+ Lookout for  at  and  - if your new biz idea uses  for Voice, SMS, IM, or Twitter he has prizes!
+ How to take conferencing from a one-liner to a full-featured application, step by step.  Using Tropo,   & voice
+ Fixes to the tropo-webapi-ruby gem. Fixed timstamp parsing & newer JSON parsing. v0.1.11 available  . Kudos to 
+ [New Blog Post] Tropo Sponsors the Summer of Smart in San Francisco.     /cc:
+ I just gave  +K about  on   (via  - Why thank you!
+  If you can find one, you can get a number directly and have them point it at your Tropo SIP address to use Tropo.
+  You would need a local telco to offer VoIP services. From what I can tell, none in Anguilla do.
+  Usually comes down to local telcos not being able to do the sorts of things we do.
+  No, we have local phone numbers in 41 countries, but not much in Caribbean outside of Puerto Rico.
+   17¢+ pricing is for voice traffic. SMS is 2¢ worldwide, 1¢ US. Can deliver to about 850 carriers worldwide.
+ Integrating the  API with  API by    
+   Using our US and Canadian SMS numbers, you can send/receive anywhere inc. Anguilla for $.02 per message.
+  Our international SMS rates are $.02 per message - anywhere - anytime!  BTW, developer accounts are free :)
+  Imagine working in our lab where you get to play with our APIs and new tech like  and  every day!
+ Sip Rox! RT  Tropo + IdeaSip.com + X-Lite = PSTN calls routed to my desktop! Nothing earth-shattering, but still cool...
+    A brilliant idea, clearly.
+ [New Blog Post] Realtime Conferencing Dashboard with Tropo and Chloe.    
+ Didn't the 1337 expression come out at the same time as Space Invaders? RT  Tweetin for a super 1337  space invaders shirt
+ Even Developer accounts are free! RT  "Everyone wins with  
+ Nice! RT  Learning about Icinga at  surrounded by cool Tropo t-shirts.
+ Our own  talks about the value of civic hackathons at     
+ RT  Tropo’s Mark Headd on hackathons and open government   
+  Let us know if we can help with that talk at all. Happy to ship a box of swag, help with some examples, or anything else.
+  Here ya go: 
+ php|tek hackers and winners    
+ RT  SMS and voice bases apps with simple APIs via Tropo      
+ [New Blog Post] Tropo Sponsors CityCamp San Francisco.    
+ RT  Just got a sweet Space Invaders homage tee!  Thanks  and  !!!! 
+ OK  just said that part of the answer to the digital divide is alternate channels, SMS. Correct! That lady is sharp (via 
+ Getting ready for  to start. Huge crowd.   (via 
+  too bad we can't convince them to call one of our numbers. Then we could look up the real carrier and origin of the call.
+  Probably forged, yes. Those two numbers are from two different carriers. MCI and Global NAPS.
+  For speech rec (Ask) you may use recognizer with 'en-gb' for British English. For prompts  (Say/Ask) voice 'kate' or 'simon'.
+  Let us know how we may help. We have speech recognition and speech synthesis for UK English as well as our UK numbers.
+ 407 & 321 outage resolved overnight - All should be well now, contact support if any further issues are... 
+  130 Townsend
+  after party sponsored by Tropo is at Tres Agaves at 130 Townsend. Come join us.
+ Outage affecting 407 and 321 numbers - There is a current outage affecting numbers with 407 and 321 area... 
+ RT  CfA Fellows Win at   Apps for Good! Congrats  &    
+ RT   you're the winner of the free  sponsored ticket to  showcase tonight! Congrats! /cc 
+ Italian number issues resolved. - About an hour ago we received word from our vendor that the issue with... 
+  Too easy to block and track abuse at hosted services. Scammers tend to want to stay more anonymous.
+  We do monitor for phishing and other abuse. Scammers generally would rather DIY with Asterisk than use hosted service.
+  Not one of our numbers, FYI. :)
+ AdhearsionConf 2.0 Announced:  October 8/9 in at NextSpace San Francisco    (via 
+ We are too! RT  Supercharged about  sponsoring today's Founders Showcase event ()! 
+ Calls to Italian numbers failing - We are investigating an issue that is preventing audio from connecting... 
+ RT   just has so much versatility. We've used it to create a very effective Loyalty Rewards program! Thanks, Tropo! cc ...
+   if either of you wants to talk Tropo at a Salt Lake City Ruby meetup we'll buy pizza and send a box of goodies.
+  See   - Rails3 Google Voice replacement on Tropo.
+   if a Rails plugin happened to grow out of that, we'd promote it on our code library page.
+ RT  Major reason to go with  They have awesome support, even on Sunday!
+  or maybe 1 aluminum duct away from a working flux capacitor.
+  couldn't hurt. :)
+ Upcoming maintenance for numbers in Japan - Please be aware that our carriers will be performing maintenance... 
+ Btw,  has a giant box of our new Invader shirts at our  office. Stop by for Happy Hour 4-6p  
+ In  & have questions about     Join us 4 Happy Hour today 4pm-6pm  
+ RT  Pic of the new  office in  
+ Tropo incoming calls interrupted - At 3:48pm Eastern time all production Tropo servers stopped accepting... 
+ Planned maintenance in Japan June 25 - On June 25 our carrier in Japan will be performing maintenance... 
+ RT  I'm the first one in Philly with the new  shirt from  
+ Number in 203 Area code working again - Tropo’s Provisioning team has just confirmed that numbers in the 203... 
+ Issues in 203 area code - One of our carriers is experiencing a localized outage in the Altoona, PA area,... 
+ RT  Today's  HD Audio Webinar is running on a 3 line  conferencing app!  Join in now using Blink at sip:confe ...
+  yes, we bill in 1 min increments. 2:30 is billed as 3 mins.
+  Maybe you could write an app that calls  until she agrees that you're awesome?
+ So much awesome at  tonight that the meeting couldn't contain it. Had to continue it over beers afterward. Thanks for having us, guys
+ Awesome,  showed up at the  Tropo talk wearing a Tropo tshirt.  
+ ok.  is awesome In just 10 mins, I built an app that sends & receives txt msgs based on where you call/txt from. (via  Thnx!
+ RT  ok... is awesome. In just 10 mins, I built an app that sends & receives txt msgs based on where you call/txt from.
+ w00t! RT  Hosting  tonight at    rocking the group.
+ Maybe our next communications channel?  
+  Very nice article in the NY Times blog. Thank you very much.
+  on ours, but I'll certainly send the post to phparch so they can crosspost if they want
+  they'll be up this week.
+ Tropo Best Practices: Testing production applications against new builds 
+ A taste of the awesomeness this weekend at Random Hacks of Kindness Seattle    
+ RT  Don't forget our friends from  will be at our  meetup this week!   /cc 
+  Apologies, oversight on our part, your account is now reactivated for outbound dialing to the Netherlands.
+ RT  Saweet! I just built an SMS customer service helper with  I'm telling you I love SMS with Tropo! cc 
+ RT   to some of my favorite brands:  (      ...
+  Outbound notifications, order tracking, virtual numbers (SMS forwarders), front ends for search results or all sorts...
+  Indeed it does. And responds with a request for them to do the same.
+  Send a request to support with the numbers you have in mind. We'll see if we can find a match with our carriers
+  That's right.
+  Most of our SMS traffic is two-way.
+  we'll hook you up with  - he can talk more details about your app and volume pricing
+  the FAQ:  - $3k setup, $750/mo, 1cent per message.
+  See 
+  also your app sounds awesome. Care to give us a demo? Email adam
+  We have 24x7 support, send internationally, have numbers and shortcodes in the US and Canada. Works over IM, too for easy testing.
+  Yes, just set the callerID property. see  or 
+  Caller ID can only be set to one of your US Tropo numbers. Carriers won't deliver SMS with spoofed sender IDs.
+ GWOBlog: RHoK  : Stand and Report   /via   
+  Tropo Shortcode pricing here:  
+ Let us know how we might help with getting your app rocking at  cc: 
+ RT  Every company should be built using the Open Enterprise model 
+  not there yet, but coming soon. You can fetch call logs via FTP, though.
+  whatcha building?
+ RT  Tropo Developer - Preferably PHP / mysql - oDesk: Looking for a developer familiar with developing Tropo based a... http: ...
+  Thanks!   we're always happy to help with our Voice, SMS, IM, and Twitter APIs!
+  You're welcome! Feeding  is the least we could do. Hack the planet!
+  You're welcome!  We love  :)
+  Seattle livestream    (via 
+ That would be  in Raleigh at 
+ We have  in Philly/NYC,  &  in Raleigh and  in Seattle. Find them!    
+ Staffing 5 events in 4 cities this weekend. Including    &  Busy weekend for us!

@@ -1,0 +1,401 @@
+
+ healthy
+ illness
+ toast
+ well
+ good
+ constitution
+ medical
+ fitness
+ holiday
+ judgment
+ soundness
+ cure
+ unhealthy
+ valetudinarian
+ wholesome
+ salubrious
+ condition
+ better
+ healthful
+ mend
+ recuperate
+ sickness
+ heal
+ malady
+ pledge
+ salutary
+ affliction
+ invalidism
+ sanitary
+ sanity
+ spa
+ welfare
+ worse
+ bonesetter
+ convalesce
+ disorder
+ electrologist
+ fettle
+ glow
+ hale
+ hmo
+ hygeia
+ hygienic
+ ill
+ medicaid
+ medicare
+ sick
+ skoal
+ who
+ apothecary
+ bad
+ chemist
+ clean
+ delicate
+ druggist
+ health food
+ hospital
+ infirmary
+ injury
+ insalubrious
+ nurse
+ pharmacist
+ pill pusher
+ pill roller
+ poorly
+ prosit
+ unwell
+ world health organization
+ bad condition
+ biliousness
+ bill of health
+ bloom
+ blush
+ bounce back
+ caregiver
+ checkup
+ clinic
+ debility
+ energy
+ fat farm
+ fine
+ flush
+ full-blooded
+ haleness
+ harm
+ health maintenance organization
+ healthless
+ heatstroke
+ hurt
+ hygeian
+ hygienics
+ infection
+ kursaal
+ lusty
+ medical assistant
+ medical man
+ medical practitioner
+ osha
+ pathology
+ poor shape
+ pratique
+ recreation
+ rosiness
+ rosy
+ salutiferous
+ sanatorium
+ sanatory
+ saneness
+ sanitarium
+ sap
+ shape
+ sink
+ slump
+ sustenance
+ tone
+ trauma
+ unfitness
+ unhealthful
+ unhealthiness
+ vim
+ vitality
+ waste
+ watering place
+ wholeness
+ a1
+ ail
+ bless
+ bouncing
+ c3
+ care delivery
+ crankness
+ cruelty
+ deleterious
+ dhss
+ dph
+ drink
+ euthenics
+ examination
+ feel like a million
+ feel like a million dollars
+ feet
+ fitter
+ flushed
+ freshness
+ get over
+ get well
+ get worse
+ good for youp
+ health care delivery
+ health hazard
+ healthcare delivery
+ healthfully
+ healthier
+ healthiness
+ healthlessness
+ hele
+ hmos
+ hygeiolatry
+ hygiastics
+ inquire
+ invalescence
+ invaletudinary
+ invalidity
+ lease
+ medical community
+ medical profession
+ mental balance
+ mental soundness
+ nhs
+ pink
+ recovering
+ rose-cheeked
+ rosy-cheeked
+ rotorua
+ salud
+ salus
+ sanitariness
+ set up
+ shaky
+ sinking spell
+ situation
+ slip
+ snuff
+ sound
+ stare
+ synteretic
+ teniasis
+ toasted
+ toll
+ trivet
+ verdure
+ vichy water
+ wan
+ watering+place
+ watering hole
+ weather
+ worsened
+ worst
+ hygiene
+ decay
+ constitutional
+ recover
+ recruit
+ wassail
+ break
+ restorative
+ robust
+ alterative
+ collapse
+ diet
+ regimen
+ rehabilitate
+ right
+ sanitation
+ surgeon general
+ benign
+ examine
+ exercise
+ form
+ go
+ hearty
+ hypochondria
+ invalid
+ noxious
+ pull
+ rally
+ restore
+ strong
+ unwholesome
+ advance
+ airing
+ benefit
+ broken
+ carry
+ color
+ convalescent
+ cut
+ deficiency
+ disease
+ district
+ do
+ drop
+ eucrasy, eucrasia
+ fda
+ fit
+ gain
+ gesundheit
+ harmless
+ herbal medicine
+ how
+ hypochondriasis
+ indispose
+ itself
+ medicine
+ nalchik
+ paramedic
+ police
+ poor
+ prophylaxis
+ propose
+ put
+ radiate
+ radon
+ recovery
+ relapse
+ repair
+ revive
+ ruin
+ sanative
+ secretary of health and human services
+ therapeutic
+ valid
+ vitamin
+ wellness
+ whole
+ accomplished
+ advance+directive
+ agree
+ ailing
+ alcohol addiction
+ alcoholism
+ all hail
+ all right
+ ama
+ ancillary
+ animal+spirits
+ animal spirits
+ application
+ arbitrable
+ area
+ ask after
+ backgrounder
+ bat
+ bath
+ beam
+ beneficial
+ bevan
+ biohazard
+ blood heat
+ blood pressure
+ humor
+ humour
+ hydro
+ hygienical
+ hygiology
+ hypochondriac
+ iatrochemistry
+ ill-being
+ image
+ impair
+ improve
+ incur
+ indicator
+ indiscreetly
+ inebriation
+ infirm
+ infirmity
+ inimical
+ injure
+ injurious
+ innocuous
+ inoculation
+ insalutary
+ insanitary
+ insanity
+ insurance
+ insured
+ insured person
+ isolated
+ kia ora
+ kick
+ languish
+ languishing
+ lethargy
+ life-care
+ liking
+ lose
+ loss
+ low
+ macrobiotics
+ macronutrient
+ major-medical
+ malaise
+ malignant
+ malnutrition
+ malt extract
+ managed+care
+ martyr
+ medical checkup
+ medical exam
+ medical examination
+ medical relation
+ medical science
+ medicare check
+ medicare payment
+ micronutrient
+ middling
+ mindful
+ misuse
+ morphinism
+ national institutes of health
+ naturist
+ need
+ nih
+ noisome
+ nonmalignant
+ notifiable
+ nourish
+ nudism
+ nudist
+ nuisance
+ nutraceutical
+ occupational safety and health act
+ offer
+ old age
+ operate
+ operation
+ orient
+ osteopathy
+ overhaul
+ override
+ owe
+ palpation
+ panel
+ par
+ peace corps
+ penalty
+ perk
+ persistent cruelty
+ pestiferous
+ phs
+ pick-up
+ pine
+ pine away
+ poison
+ poorliness
+ ppo
+ primary health care
+ prime
+ private patient

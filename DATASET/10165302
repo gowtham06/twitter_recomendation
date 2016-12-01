@@ -1,0 +1,401 @@
+  Yeah, whether you agree or not, I do think that they put significant thought into making the change.
+  They want to standardize scrolling across desktop and touch. Before, scrolling on the desktop was reversed from a touch device.
+  Oh really? That sucks. I haven't been having any issues.
+  Ha, only Chrome updates don't pop up and annoy the crap out of me!
+ I'm kinda disappointed, it has been almost a week with no Chrome updates. Those guys are really slacking.
+  You sir, are the man! Backbone.ModelBinding looks great!
+ Ain't nothin wrong with a Saturday night, a bit of bourbon, and some
+ Can't find any way to reduce the size of a boot camp imported virtual hdd in Parallels. Creating another VM. Such a time sink.
+  Yeah, 4GB RAM limit in 2011 is just ridiculous. I guess that is what you get when you solder the RAM to the motherboard.
+  awesome, thanks for the info. Must be causing you guys serious headaches.
+ Looks like  is doing a webinar on Backbone.js! Go sign up, unless you're a dummy. 
+  No one can destroy the metal!
+  Natural scrolling would be the opposite one :-)
+  That is most definitely the problem :-)
+  Now that my sober mind has had time to ponder it :-)
+  Yeah, makes sense that it reverses the data coming from the mouse, otherwise apps would have to be written to support both modes.
+  Baaaaaaaah.
+  Yeah, agreed, but I've gotten comfortable with both. I just think "I'm pushing the content, not the scrollbar"
+  Ha, yeah, just make sure you run the uninstall script or it'll come back :-)
+ At the behest of  I have left on "natural" scrolling in OS-X for the entire day. It isn't so bad I guess. 
+  Thanks! I was looking for that.
+ OS-X Lion tip: if you're getting logged out and behavior such as menu item getting clicked, 1Password locking, etc... It is AirDisplay.
+  Or click "register now"
+  On the main page, go to the third image in the big spinner thing. That is really odd how hard it is to find.
+   Oh cool, see you guys at 
+  Already upgrading? :-)
+  I used iTerm2 for a bit and had some issues. No issues with Lion for you so far?
+ In Lion, Terminal has a full screen view. Ha. Nothing like a full screen console on a 27 inch monitor.
+  I'm on to you now :-)
+ Anyone know if Lion's TRIM support is still limited by default to Apple SSDs?
+  Yeah, I keep waiting to get tired of it, then new shit keeps coming out :-)
+ Sometimes I wonder what I would be if I was born before computers, and I also wonder how miserable I would be doing it. :-)
+  Hmm, yeah, I noticed that. Now that I look, you can tie an Apple id to your user account. Maybe you're right.
+ RT  Great news, everyone: MonoTouch and Mono for Android are available today from Xamarin: 
+ So Lion has "natural" scrolling and a menu option that takes you right to an on-screen keyboard. Signs of things to come?
+  Ha, I used to love that game!
+  Yeah, I'm only registered as an iOS dev, so I couldn't get Lion before it was released.
+ Really liking the UI in Lion, much more clean and refined. Gone are the ugly "pill" looking buttons.
+ Upgrading to Lion during lunch. Hope all goes well!
+  Yeah, isn't that annoying. I can see a mini download bar in the dock, but I can't really tell how far along it is.
+  That was happening to me for a while. Then it stopped. I'm assuming it is people trying to hack accounts.
+  since you're such a nice guy I'll give you two pair for 40 bucks. And trust me, your cuisine will reign supreme.
+ Oh the crap people buy  
+  You can buy once as long as it is the same iTunes account.
+  Ha, me too. I'm going to stick with Rdio. I do like Spotify's client though.
+ Never underestimate the complexity that adding any kind of concurrency adds to a process.
+ RT  MonoTouch to Xamarin now looks official :-)   <- awesome!!
+  Ah, okay, interesting.
+   well, I think it serializes it like that because it needs to pass it to Mongo in that way. Mongo uses _id internally.
+  Touche
+ Just saw a commercial that basically implied that if I use a Chase Freedom card, I will be accosted by airport security. Interesting.
+  But yeah, just the id field. :-)
+  Backbone.js expects the change, and you can just create a base model that you use for all of your Backbone models.
+  I found it easier to set the "idAttribute" property on the backbone model than it is to change it to Mongoid.
+  But you don't really use "this", you use the  symbol instead of this. So  is an instance variable.
+  Oh, in Coffeescript if you use the "fat arrow" for a method "=>" it automatically binds "this" to the method.
+  Yeah, I have checked it out. Not sure I really see the value. Plus backbone is gaining some real steam.
+ Was just getting ready to write a post about Mongoid and Backbone.js playing nice together, but realized  beat me to it! Nice!
+ Coffeescript + Backbone looks so clean compared to JavaScript + Backbone. No more _.bind("render", "blah", etc...) nonsense.
+  Thanks man! You didn't need to do that!
+  People just don't understand that for people like us, that is a vacation!
+  Cool, thanks.
+  Yeah, i was just curious. Not really a big deal.
+  What app are you using to show you the connection history?
+  Can you sync it to the desktop client?
+  Does rdio allow you to sync music for playing offline?
+  You should poke  and get him to look into it.
+  Heroku hosts node.js apps now I believe.
+  Yeah, I looked at both, they seem very similar.
+   Instead of Democrat or Republican, I just prefer to call them all "Crooks". :-)
+  I didn't, you can get in immediately by signing up for a pay account.
+  Today is day 1... for the U.S.! :-)
+  Yeah, so far, very impressed.
+ Checking out Spotify... so far *really* liking it. The selection is darn good so far.
+ How come the most interesting stuff is never the top priority? Come on universe, cooperate! :-)
+  Oh no! That is terrible. Hope the kitty makes it.
+  Holy crap! Congratulations!!!!
+ Got to implement Tarjan's algorithm in C today in order to detect circular references in a large domain model. Fun stuff.
+ Thanks everyone for the Resharper 6 feedback!
+  Awesome, good to hear.
+  Really, how so?
+  Great, thanks!
+ Anyone have anything to report as far as Resharper 6 perf or stability?
+  Yeah, if you have a Google apps account (as in you pay money) you can't get Google profiles, which G+ requires.
+   Would be super awesome if I could check it out. I can't until Google enables profiles for Apps accounts.
+ Wow, looks like  closing a seed round  Congrats  !!
+  I would take a look at Rdio. Same idea, but much more portable.
+ RT  Announcing Innovate Virginia on Sep 16th. Join us for  and  in the gardens:  (please RT)
+ Using Dapper for the first time today, working really well so far. Kudos to 
+ "We aren't tied to the way we currently do it, except for the fact that everything has to be the same." <Sad Trombone>
+  Nah, IE6 only accounts for about 0.52% of my total traffic :-)
+ To clear that last tweet up, IE9 is only 6.35% of my total traffic.
+ In the past month, IE9 is still only 35% of my IE traffic. And that is on a tech blog! Hopefully that is a bunch of work computers.
+  It is sooooooooo bright.
+ The Pow web server is pretty awesome, and so simple to setup. If you're doing Rails dev, check it out 
+  Ha! No, not at all. :-) My following comment was not in response to yours.
+ Nothing says "Sunday evening" like making passive aggressive comments on Twitter. Oh, by the way, I'm leaving .NET! Har har har.
+ You know what I like to do, routinely pick the worst tool for the job. I like challenges.
+ Arguments on Twitter are like being at the beach in May. It looks like so much fun, but you know once you jump in, you'll regret it.
+  Derp, yep, it would help if I knew what day it was.
+  Expecting. Due in November, we are just trying to get things done as early as possible :-)
+ A glider for the baby's room....What are things I never thought I would be buying on a Friday night? Correct!
+  Yeah, just not sure I want to get into that. :-) I kinda like what I do.
+  And by that you mean paranoid. Was that pen on the desk in the last episode? What are they trying to sell me? Arrrgh!
+  Yeah, you wonder how much of that is going on currently.
+  Holy crap. That is insane! I thought you meant it was in the background on a poster or television or something.
+  You can no longer trust your eyes! Argh!
+  What is crazy is the ads that they insert now in live sporting events that you can't tell aren't there in real life.
+  Cool, we organize them through the Richmond Software Craftsmanship Group... go here to sign up: 
+ The  the other day made me really wish that there was a coworking facility out around Innsbrook.
+  Or so I am reminded almost every day via the comments on my blog.
+ r  You can do all of the same stuff with ASP.NET MVC!!!
+  Yeah, I'm getting a crapload today as well.
+  That is probably a good idea!
+ I find that I liked people more before Twitter. You know, before I knew their political, environmental, social views :-)
+  Clojure man, it is the "bees knees" as they say. :-)
+  If you search for ".NET Hudson" your blog post is still first in Google! :-)
+  No bueno, hope you feel better.
+  Oh that sucks, are you sick?
+  Oh, I know. :-) Mine was just Google, copy, paste. But the config is... obtuse.
+  Don't even know what to say to someone like that :-) They would get a blank stare from me.
+ Had to configure a WCF service to run over SSL ... so simple and straightforward. 
+  Yeah, I have a hard time understanding the fear. I sorta get it, but in our industry, push forward or get out of the way.
+  Yes, yes it is. I can't get my head into anything.
+ Oh yeah, and waaaaaaaaaaah....cheese, wine, and all that.
+ Switching back and forth between projects is killing me! Ugh.
+  We just use a Google group 
+  That takes some serious tooth losing skillz!
+  Ha ha, that is hilarious. BTW, great to hang out today! Been way too long!
+  Wish everyone felt that way :-)
+   Alright, I'm cool with hippy... but I bathe daily! :-)
+  Yeah, but for a while I thought I might have actually engaged adults :-) Then I woke up.
+  Oh, I know I suck :-) Tell me something new!
+ RT  Mission accomplished:  <- Proof that Dave Ward can move mountains (and Mountain View).
+  What blog post do you refer to?
+ My post on Rails had a ton of good feedback and discussion, then in the last few days it has devolved into arguing and "you suck!".
+ I'm done responding to comments of people that obviously didn't bother to actually read my post. Phew... I feel better already.
+  I wouldn't say that. Unless I'm missing something, you'll run into versioning problems doing that.
+ NuGet has made .NET development so much more pleasurable. Gathering up libraries for a project is no longer "jump out a window" inducing.
+  No problem. Glad to finally officially meet you! I see your name from time to time, but always good to meet in person.
+  Hope you can make it next time!
+ Thanks to everyone who made it out today for  It was really nice meeting everyone!
+  Yep, noon today at Ale House in Innsbrook.
+  Unfortunately it looks like it has been removed from later versions of the Chrome dev tools. Used to be on the network tab.
+  Yeah, that is a fine line to walk :-)
+  Yep, luckily it appears that he ended up with a legit "tech support" company. They had an entire song and dance.
+  Probably would be useful, but you still have that issue of trust.
+ Father called me because he clicked an ad that had a "support" number. Told him his computer was infected. Can't believe some companies.
+  The problem is that I don't want to pass work off to just anyone. I want it to be people that I can personally vouch for.
+  Exactly! I don't just want to hand off work to just anyone, because it reflects on me.
+ Need to build up a circle of trusted folks to pass work off to. I just have no availability currently...or I don't fit the projects.
+  Thanks. Yeah, I just need a lawyer lined up to either draft or look over a contract to tell me if I'm selling my soul.
+  Thanks!
+  lol, that didn't take long, did it? :-) He works fast, what can i say?
+ Anyone in Richmond, VA know of a good local contract attorney that deals with independents? 
+  Yeah, already on it.
+ Anyone independent devs out there experienced in .NET and RabbitMQ? Contact me.
+ The big sparkling "Live" logo on the Macy's fireworks show is ruining it for no reason. I wish people would think sometimes.
+  Yeah, I never really used Gmail before I got my GAFYD. I still have an account, but I never use it for anything.
+  Yeah, I just use my own domain account. I don't use, or want, a separate Google account.
+  So far Google+ is really blowing me away :-)
+ And I've checked, and yes Google Profiles is on the way "this year" for GAFYD accounts.
+ This is all I see when I try to get in to Google+. Blows my mind. 
+ Apparently I can't use Google+ yet, since I pay them money for a Google Apps account. That is crazy lame.
+  Thanks! Already had someone offer one up, appreciate it!
+ So how do I get in on this Google+ thing? Anyone have an invite they are looking to be free of? :-)
+ Just got my  beta invite. Awesome developer oriented take on task management. Love it. You gotta check it out. 
+  Yoooo, where you at? We are in the hotel bar.
+ Hanging out at the checkin desk at 
+  Absolutely! Oh, and feel free to invite anyone else!
+  The developer lunch is going to be on Wednesday July 6th.
+    Looks like the developer lunch is going to be on Wednesday July 6th. See you there!
+ Argh, if you are using Feedburner, and you transfer your feed, keep in mind that some settings don't transfer. Like your "MyBrand" settings.
+ Looks like transferring my RSS feed for my blog between Google accounts killed my subscriber number. Was at 3.5k, now at roughly 200.
+ RT  Strange Loop 2011 schedule on HackerNews if you want to vote it up.... 
+  Awesome, congrats! Yeah, that time is going to go so quick :-)
+  He is due in mid-November! Hard to believe we are halfway there.
+ Thanks everyone!
+ It's a boy!  
+  yep, first kid!
+  Of course it is a boy :-) JK, I don't really know, doesn't matter to me.
+ Today is the day we find out what sex the baby is! Sitting in the waiting room...the suspense!
+  Yes, that is part of the fun :-)
+ I am so spoiled by cloud computing, yet I still complain. This server took me 15 minutes to get running! OMG! The horror!
+  But everyone is doing it.... shit.
+  I haven't found it, I still use TweetDeck.
+ If you name something that everyone is doing, and say "then you're doing it wrong", then you're doing it wrong.
+  Only if it is a funny one. Just kidding, NO! :-)
+ Richmond Developer Lunch is still tied on July 5th and 6th. Help break the tie! 
+ RT  And We are LIVE! "KickoffLabs is Open For Business!"  <- Congrats!!!!
+  Sorry to hear that! Yeah, it would be one heck of a drive for you!
+  Damnit I always get to your posts too late :-)
+ Small developer lunch (as in group size, you don't need to be small) in the West End. Want to come? Vote on the date 
+  Excellent idea! Nothing pisses me off more than a "Here is your password!" email.
+  Yeah, they need to change that.
+  I believe it checks for updates in the background, going to the "About" page just forces it.
+  Yeah, it does, you have to go to the "About" page.
+  Thanks! Glad you enjoyed it!
+  That looks pretty nice! I'll check it out.
+  Yeah, I know what you mean, but I've tried, and I want to move things around too much. Then I have to redo entirely.
+  I understand where you are coming from, but i move and changing things so much, I think something like Balsamiq would help.
+  Thanks, I'll take a look at it.
+  Cool, thanks. That is the exact feedback I was looking for.
+ Best wireframing tool? Balsamiq? Mockingbird? Flairbuilder? Keynote/Powerpoint? Omnigraffle? Any thoughts?
+ r  Love the idea. Great iPhone app! 
+  Ha, you betcha! No, not really, just saw you were local.
+ Interestingly enough, I bet the Google search volume on my name just went through the roof.
+  Yep, hold one one second....
+  You have been googled. :-)
+  You spelled my name wrong, but good to know that my blog is still the first thing that pops up. I rule the internet! :-)
+ It is more out of curiosity than anything. Not trying to dig up dirt. :-) But, oh the things you find :-)
+ I have this habit of Googling almost everyone I meet. Is that weird, or just practical?
+  Odd, it appears to be working on a different computer. Strange. Did you change anything?
+  Not working for me on any platform, any browser. Not sure what is up. JS files getting served up as html.
+  Looks like MVC is screwing with the URLs for custom.js and jgfeed-min.js
+  Looks broke :-)
+  Tuesday would work better for me probably.
+  Can't do tomorrow, but could next week at some point.
+  No way, I didn't use my swm30 lf swf30 2 spnd 4evr wif!
+  That last one sounds around my skill level :-)
+  Did you just proposition me? Ha. Business/potential client connections.
+  Oh that sounds terrible :-)
+ So, I need to network more, but I don't like people. Ideas? Oh I kid, I kid. But still, any ideas? :-)
+  Seriously. I mean output parameters...come on!
+ Writing stored procedures for the first time in years. What...have...I...done.
+  Yeah, suuuuuuure it is pronounced that way. Nice save.
+  I have updated it, hopefully the confusion will no longer occur :-)
+  Yeah, at least it works. :-) I don't have time for all of WP7's weirdness. It is just a simple anchor link.
+  The "bury your head in the sand" technique is my favorite method of UX improvement.
+     Ha, that is too funny. I'm gonna switch mine up.
+ How come when I click a link it Word it pauses and says "Word is preparing to load this document"? WHAT ARE YOU DOING? Load it already.
+ So apparently even MongoDB can't magically overcome the laws of physics. Who would have thought? If you've got to hit disk, you're screwed.
+  What device are you using?
+  Really? Several other people reported that it was working just fine.
+  Thanks! I'll look into it.
+ MADExpo Mobile site is almost ready. Should work on iPhone, Android, and WP7. Can you help me test it? 
+  Can you glance at it again. I think it is fixed now.
+  Cool, thanks.
+  I made a tweak to the way the lists display, can you reload it?
+  Just DM'd it to you.
+  I am, and I'm seeing weird rendering issues and artifacts. Wondering if it is the emulator.
+ Anyone that has a WP7 phone want to help me test a website?
+  Really enjoyed your talk last night. The new Tumblr app looks amazing. Can't imagine how much work went into it.
+ Went to my first  meeting last night. Enjoyed the meeting, need to try to make it to more of those.
+  I'm just running the emulator by itself, not through Visual Studio.
+  So, in other words, you're just taunting me :-)
+ So tired of creating tables. Can I have some MongoDB please.
+ Awesome, Github released Github for Mac  via 
+  firebut, lol
+  Good call, there is also firebut lite, might check that out. Thanks!!!
+ Alright, looks like there is no way to see JavaScript errors occurring in the browser on Windows Phone 7. Really? That seems...crazy.
+  Thanks, but unfortunately I need to see a JavaScript error that is occurring in the browser. I'm starting to think there is no way.
+ Does anyone know of a way to see errors coming from IE on Windows Phone 7? Trying to troubleshoot a mobile site issue.
+  Hold on... let me see if they have a return policy :-)
+ Can't believe I almost forgot to buy my MADExpo ticket, that would have been awkward :-)
+  Awesome, it'll be good to catch up! Haven't seen you in a while.
+ I'm really looking forward to MADExpo next week. Anyone I know heading over there? :-) 
+ RT  Speaking at Refresh Richmond tonight. If you live in  are into Tumblr and have an iPhone you might want to come. htt ...
+  Using a towel, chloroform, and a panel van.
+  Yeah, I understand that part, but I would feel weird and out of place as a non-speaker.
+  Don't waste it on work man :-)
+ Paying for access to the speaker dinner at a conference feels...odd.
+  You can't help everyone :-)
+  Yeah, I've checked it out in the past. Time to take another look.
+  That is good to know!
+ Adobe Reader is telling me I have to restart in order to use it. Well, quite frankly I'd rather just not use it.
+  "Air quotes are my fav"
+  I agree, but forcing people to remember TLDs isn't a great solution either.
+  You laugh, but honestly, that is the way it should be. It should be asking for something, not typing in some random address.
+  Ah, I gotcha.
+ It is a dull and dreary Radiohead kind of morning.
+  I did, I got my site first.
+  Yeah, that probably wouldn't be too terribly hard :-)
+  I'll start putting that on my business cards... Website: search for "Ecstatic Labs"
+  The whole system is silly anyways, I should ask for what I want and be given the address, not the reverse.
+  Absolutely, most people just search which renders domain names obsolete. But when someone does just type it in the address bar...
+  The problem is that .com is just an implementation detail. People remember the domain, not the extension, so .com is the default.
+   Awesome, but I'm pretty Sure they are close to selling out! I'd get that request in quickly!
+  It is in Saint Louis.
+  something like that. Or the conference of people far more interesting than I am. :-)
+  Yeah, already bought my tickets. Looking forward to it.
+ You *seriously* have to check out Strange Loop, just check out these sessions: 
+ RT  Strange Loop early bird rates go till July 8th ($250) then go up to $325...   ....
+ Sometimes I wish I had more appreciation for Johnny Cash than I already do.
+  I've had that problem for a long time. I have to moderate everything. Akismet catches a ton of spam, but still lets through a lot.
+  Don't worry, I have a special rule for all of your comments :-)
+ Just realized how busy I have been this week. Have about 50 comments on my blog to wade through. Bet 49 are spam.
+  Right now there is no easy way to specify a fully host on the output file, should be easy to put in there though.
+ RT  New  sign up page launched with invites. We are getting close folks. 
+  Awesome! Congrats!
+  Yeah, pretty awesome. I've never noticed a Chrome upgrade. Even though they happen all the time.
+ If you complain that Google Chrome comes out too quickly, you shouldn't, because I bet you didn't even know you were on version 12.
+  Is it for rent yet? Or just buy? Cause I'm with you man, alien invasion movies kick ass.
+ RT  Once priority has become pluralized it looses it's meaning.
+  Amen to that.
+  This is windows, the process is more like <click> <click> <click> <click> ... pause... <click> <click> done!
+  It is recommended that you MAN UP!
+ Doing work while Windows Updates are installing. 
+  Everyone knows regions are evil :-)
+ RT  We're new, but the idea isn't new. Please come and help us make the internet a better place for devs on our new site  ...
+  For people who have scruples, that is the absolute worst feeling. I'm sure the other party will understand though.
+ Nothing quite like getting an e-mail from a customer telling you how much you helped them. Made my morning.
+  You probably want that in your Gemfile and not install directly from cli. But if you do, you need gem install 'rspec-rails'
+  I thought that AgileZen couldn't get any better...then you proved me wrong.
+  Ha, I'm not talking about in the source. There are lots of things that affect a system that aren't in the codebase.
+  Yeah, absolutely.
+ Good read, and I completely agree. The problem stems from the abuse of the word "beta" in the software world 
+ Looks like there is a free conference in Reston on September 17th called TechGate. Looks interesting, check it out 
+  Maybe I am *so* insane, that I am actually sane.
+  I think it very much comes back to aesthetics. Not so much reduction of keystrokes but reduction of visual noise.
+  Are you watching "Through The Wormhole"? I love that show!
+ Man I hate it when something works and you didn't change anything. Something changed. Something always changed. What was it? Drives me nuts.
+  Their dog collars are pretty nice. Maybe I'll splurge :-)
+ Am I the only person on earth who doesn't get instagram? I mean, I get it, I just don't *get* it.
+ Love how blog spammers appeal to your vanity. "You are so smart. How you not more popular?" Then they link to some site selling dog collars.
+  Nice! Can't pass up the free condo.
+  All of us Virginians go down to NC to hit the beach, you guys come up here :-) Enjoy!
+ Saw a license plate surround that said "Jesus Is Lord", I swear for ten seconds I thought it said "Jesus Island". Wondered where that was.
+   I got nothing :-)
+  fuuuuuuuuuuuuuuuuuuuuu! :-)
+  lol, oh that is good stuff.
+ On almost a daily basis someone tweets something at me and I can't tell if I am being trolled or not. Not enough energy to find out.
+  Ha, just because another tools is worse, doesn't mean your tool doesn't suck :-)
+  I hear you on that, WCF services can drive me insane sometimes.
+ Whenever I successfully connect to a WCF service, I feel as if I have slayed a dragon.
+  I've worked with all kinds of devs before. All kinds. :-) A lot of really good developers too, thankfully!
+  Oh, the people I've met :-)
+ RT  The reason 30 is old for a software dev is because it has been 10 yrs since most have learned anything new
+  Yeah, I spent forever trying to figure out why my screen looked like crap. I only had a single link DVI cable. Argh!
+  I'm assuming that someone is taking care of your dog :-)
+ Repaving a machine and installing software all night long. Ugh. Glad I only have to do this once every few years.
+  Happy anniversary!
+  Not sure what you mean... it is usually specified using WithMinifier()
+  Yeah, that is new stuff.
+ RT  Wow only 21 days until  While we're working through last minute details , why don't you go register here: http ...
+  The mvc stuff is in the package install folder. Doesn't get referenced by your project as a default.
+  Hope you enjoy it! Had a great time riding with you to 
+  It would be nice, but won't happen. MS doesn't have hardware to subsidize.
+    MS is gonna launch and app store and then still charge you 200 bucks for an upgrade.
+  It caches, so the upfront perf shouldn't really matter. Besides, it is gonna depend on which backend compression library you use.
+ Hopefully this is where things get interesting. Cause so far... snooooooze.
+  Who is jealous? This guy!
+  yeah,  is clever like that.
+  Excellent idea! :-)
+  Always wondered what that word meant.
+ Why do people readily regurgitate quotes about premature optimization, but then have no problem prematurely abstracting everything.
+  ...
+ Woke up, sat in hotel, drove home, now time for sleep again. :-)
+ Wow  was great this year. I don't know how these guys make it look so effortless.
+  Thanks! If I get stuck I'll be sure to ask.
+  Awesome! Hope you have a great trip!
+ About 2 hours into rewriting Snapply into Obj-C. Making good progress so far. Got inspired by  intro to iOS talk.
+  You in San Francisco now? Or still on the plane?
+  lol, she didn't, but now I gotta be careful what I say on here :-)
+  Oh no!
+ If anyone is still around, I'm grabbing breakfast at the Hilton.
+  To go from Kauau to Paris, do you go east or west?
+  I found it 
+ Pic from Charles Petzold's keynote. Awesome. Need to find this shirt. 
+  Wassssssssssssssup.
+ I'm watching Charles Petzold give a keynote. Yes, *that* Charles Petzold. And drinking a beer. Best day ever.
+  What makes you think that?
+  Congrats!
+  I must have just missed you! See you tomorrow!
+  Apparently at Bailey's Taproom. You still at the hotel?
+ In Tennessee for  What is going on this evening?
+  Gotta use RVM! It'll save your bacon. Tiny bit tricky to get setup, this might help 
+  Oh yeah, working for C1 you'll be working from home! You'll *love* it!
+ Getting ready to head out for  Excited to see everyone!
+  Get to work! :-)
+ RT  Just kicked up the MVC 3 preview - I like this one :)  < Ha ha, good stuff!
+  Yeah, I just don't need 512GB :-)
+  That is what everyone tells me. I've been keeping my head in the sand for a while. Ready to take the plunge.
+  That is the 2011 Macbook Pros. Mid 2010 are fine. It is the new chipset that has issues.
+  I was looking at this  434 ain't bad.
+  M4 has a three year warranty.
+  Eh, if they fail quickly, they get replaced for free :-)
+  Yeah, but if you look at the speeds. SSD > 4 times faster than Raptor? I think it might be worth it.
+  I'm looking at the new Crucial M4s. Looking at the Anandtech reviews, they scream. Previous Crucial's have had good reliability.
+  Well, it seems that if you go for the fastest ones, you are getting a mixed bag. See my last tweet.
+ It looks like the OCZs are some of the fastest SSDs, but they also seem to have really bad reliability. Reviews: 
+  Yeah, you can do research and find the more reliable brands. They definitely vary a lot.
+ I really need to invest in an SSD.
+ I love that Newegg is selling backup software with SSDs as a combo. Nice cross sell.
+  Seriously, Ping? Live Spaces? <vomit>
+  I had considered it before, but never got around to doing it.
+  Yeah, but who is going to maintain Monotouch? Compatibility with XCode 4? Lion? There is a lot of questions there.
+  Well, learn Obj-C and migrate it off MonoTouch.
+  It is just a toy. I used it as an excuse to play with the platform.
+  Yeah, but they are built on stable Apis that don't change 4 times per year.
+  LMAO Yes, that just happened.
+ Wow, I hope this isn't true. 19 billion. 
+  Just cause MonoTouch is dead now, and I'm not sure I'm gonna shell out $$$ again.
+  Yeah, I'm sure they are covering their bases as much as possible.
+  Cause Attachmate laid off the entire Mono team.
+  Yeah, I would be very curious to see how difficult the port would be.
+  Yes, but I'm not sure I'll invest twice just for a personal project.
+ I don't think most people realize that MonoTouch seems to be dead in the water. Hopefully  will get to market quick!
+  Cause MonoTouch is dead :-)
+ Should rewrite my free iPhone app Snapply from MonoTouch to Objective-C? Check it out if you haven't already 
+ Today was a crazy long but really productive day. Don't mind the occasional long hours when things are really progressing.

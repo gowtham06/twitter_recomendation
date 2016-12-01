@@ -1,0 +1,600 @@
+ sport
+ sporting
+ athletic
+ football
+ basketball
+ boxing
+ games
+ hockey
+ lightweight
+ team
+ tennis
+ pass
+ block
+ field
+ hook
+ break
+ foul
+ play
+ shot
+ blazer
+ event
+ return
+ sportsman
+ stadium
+ weight
+ arena
+ athletics
+ call
+ captain
+ center
+ defense
+ drive
+ fumble
+ kick
+ referee
+ sportive
+ track
+ assist
+ butt
+ charge
+ check
+ coach
+ coliseum
+ cut
+ deep
+ exercising weight
+ fake
+ fan
+ fight
+ goal
+ hammer
+ hole
+ manager
+ mat
+ misplay
+ offensive
+ open
+ park
+ platoon
+ pole
+ racket
+ racquet
+ run
+ scout
+ seed
+ setup
+ sportscast
+ sportswoman
+ sportswriter
+ sudden death
+ tackle
+ target
+ volley
+ aquatic
+ aquatics
+ balk
+ board
+ breakaway
+ crease
+ cricket equipment
+ croquet equipment
+ cue
+ cue stick
+ dead
+ dig
+ division
+ exerciser
+ fault
+ forehanded
+ franchise
+ golf equipment
+ grid
+ gymkhana
+ gymnastic apparatus
+ hand
+ hockey stick
+ interference
+ jock
+ mallet
+ meet
+ midfield
+ muff
+ out
+ penalty
+ pin
+ pool cue
+ pool stick
+ preliminary
+ put
+ quarter
+ race
+ race meeting
+ score
+ scratch
+ screen
+ shoot
+ show
+ skate
+ spectate
+ spike
+ split
+ sportscaster
+ sporty
+ start
+ string
+ tag
+ turn
+ umpire
+ water sport
+ whip
+ winter olympic games
+ wire
+ zone
+ address
+ advantage
+ alignment
+ all
+ anchor
+ approach
+ attack
+ badminton equipment
+ baseball equipment
+ basketball equipment
+ bat
+ baton
+ bench warmer
+ bias
+ binding
+ blank
+ bmgs
+ bout
+ boxing equipment
+ butterfly
+ canvas
+ card
+ carnival
+ carry
+ catch
+ cheerlead
+ chip
+ circ
+ clear
+ come back
+ competition
+ convert
+ costas
+ course
+ cover
+ cross
+ defence
+ defending team
+ discus
+ dismiss
+ dome
+ draw
+ drop
+ entry
+ equalize
+ exchange
+ extreme
+ fall
+ ferrari
+ field+day
+ field house
+ field sport
+ field sports
+ fixture
+ flip
+ fore
+ free agent
+ game plan
+ go
+ goalie
+ goalmouth
+ good
+ green
+ ground+rule
+ gumshield
+ gym mat
+ hacking jacket
+ half
+ handler
+ head
+ header
+ heat
+ hit
+ horse
+ ice
+ interception
+ interfere
+ interscholastic
+ let
+ limber up
+ loft
+ loop
+ love
+ luge
+ maiden
+ major
+ matador
+ mile
+ minor
+ miscue
+ mouthpiece
+ nesn
+ odd
+ out-of-bounds
+ outplay
+ over
+ overtime
+ pitch
+ place-kicking
+ place kick
+ plate
+ playoff
+ playsuit
+ pointless
+ possession
+ post
+ qualify
+ rallye
+ regatta
+ regulation
+ relay
+ roadwork
+ round
+ service
+ set
+ single
+ skates
+ slump
+ spare
+ speedster
+ sporter
+ sports arena
+ sports fan
+ sports page
+ square
+ strike
+ stuff
+ swim meet
+ swimming meet
+ swinger
+ take
+ tennis shoe
+ timekeeper
+ timer
+ title
+ toss
+ touch
+ track meet
+ trainers
+ transition
+ turkey
+ twist
+ unbroken
+ undercut
+ upsets
+ usfl
+ walk
+ wall
+ wheel
+ wild card
+ winger
+ winter olympics
+ winter sports
+ wire wheel
+ won-lost record
+ athlete
+ forward
+ serve
+ smash
+ bye
+ club
+ deuce
+ halfback
+ home
+ offense
+ pavilion
+ play-by-play
+ point
+ press box
+ pro
+ ring
+ slice
+ tournament
+ wave
+ avid
+ ball
+ bench
+ bowl
+ circus
+ conference
+ corner
+ country club
+ court
+ decision
+ draft
+ dribble
+ end
+ excise
+ follow
+ footwork
+ forehand
+ gate
+ get
+ glove
+ groundskeeper
+ gymnasium
+ gymnastics
+ hot
+ letter
+ lido
+ line
+ linesman
+ live
+ match
+ maypole
+ net
+ one-on-one
+ oval
+ pad
+ physical education
+ prelim
+ punt
+ rally
+ record
+ ref
+ retrieve
+ scrub
+ series
+ side
+ stall
+ stick
+ superstar
+ supporter
+ sweatband
+ talent scout
+ throw
+ track and field
+ trap
+ trial
+ trunk
+ try
+ tuck
+ watercraft
+ wrestling
+ aau
+ acapulco
+ acapulco de juarez
+ action replay
+ advantage rule
+ aerial
+ aligner
+ alpine
+ alps
+ amateurism
+ announcer
+ appel
+ arlberg
+ armguard
+ aroar
+ assess
+ athletic+supporter
+ average
+ aviemore
+ background
+ backstop
+ backswing
+ bail
+ benefit
+ big-league
+ bind
+ bleachers
+ bob-sleigh
+ bobble
+ bracer
+ broad jump
+ cage
+ cap
+ catcall
+ catgut
+ chant
+ cheap shot
+ cheerleader
+ cheryl tiegs
+ chop
+ christie brinkley
+ classified
+ cleat
+ clock
+ cloud
+ cloudy
+ clubhouse
+ compulsory
+ concourse
+ connect
+ consolation
+ cool
+ country
+ dip
+ double
+ dressing room
+ drill
+ driver
+ drop kick
+ drs
+ ducks
+ elle macpherson
+ enclosure
+ engadine
+ english
+ espn
+ espy
+ evened
+ extracurricular
+ extramural
+ eye
+ eyers
+ face
+ face mask
+ fade
+ featherweight
+ feb
+ feed
+ feint
+ fifth
+ final
+ finalist
+ finals
+ foe
+ forehand drive
+ forehand shot
+ forehand stroke
+ foul line
+ free agency
+ free weight
+ freedom
+ gest
+ giant killer
+ glory
+ go-ahead
+ goat
+ grand final
+ grandstand
+ groundsheet
+ groundsman
+ gym
+ gym rat
+ gym shoe
+ haka
+ half time
+ handicap
+ handicapper
+ hardtop
+ hat trick
+ heidi klum
+ hunt
+ indulgence
+ infield
+ intercept
+ interest
+ international
+ intramural
+ iron
+ jayvee
+ judge
+ junior
+ juvenile
+ kathy ireland
+ kayak
+ kit
+ lap robe
+ league
+ leisure
+ lineup
+ linkman
+ long jump
+ lyceum
+ mad
+ madcap
+ maidan
+ maidmarian
+ manly
+ manowar
+ marisa miller
+ martial
+ mascot
+ massacre
+ mgs
+ minor league
+ muscle+car
+ nautics
+ neat
+ network
+ nightcap
+ octave
+ officiate
+ olympic games
+ omni
+ outer
+ paddle
+ par
+ pennant
+ personal foul
+ petra nemcova
+ phenom
+ playbook
+ playfellow
+ playground
+ plebeian
+ plimsoll
+ plus+fours
+ plus fours
+ position
+ power play
+ professional
+ professionalization
+ prototype
+ push
+ quarterfinal
+ rabbit
+ racket club
+ rbi
+ recap
+ recreation
+ refer
+ regional
+ regulation time
+ repeat
+ replay
+ reserve clause
+ revenge
+ ribbon
+ root
+ rough
+ rubber
+ rule
+ saint moritz
+ sandlot
+ save
+ scalper
+ scene of action
+ scissors
+ scorecard
+ season
+ section
+ selector
+ semifinal
+ separate
+ shield
+ shooter
+ sit out
+ ski pants
+ skybox
+ slash
+ slider
+ slomo
+ slow motion
+ sneaker
+ sneakers
+ specialty goods
+ spoiler
+ sportal
+ sporting life
+ sportling
+ sports announcer
+ sports commentator
+ sports desk
+ sports editor
+ sports section
+ sports stadium
+ sports writer
+ sportsmanship
+ sportswear
+ standing
+ stardom
+ stats
+ steal
+ stem
